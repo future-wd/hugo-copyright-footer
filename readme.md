@@ -1,3 +1,3 @@
-# Tutorial - Getting Started with hugo and bootstrap
+# Tutorial - Copyright footer (auto year) with bootstrap 5 and hugo.
 
-Watch the video at <https://youtu.be/T671OzJisFs>
+Watch the video at <https://www.youtube.com/watch?v=HcyBdgJhDZI>
